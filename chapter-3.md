@@ -1,4 +1,3 @@
 # Chapter 3
 
-> Light and clear day
-> Still clear out here
+> Light and clear day Still clear out here
